@@ -1,13 +1,11 @@
 ---
 name: Sadiya Hussain Chatham Parayil
 position: gradStudent
-avatar: 
+avatar: Sadiya_Hussainc_headshot.jpg
 email: Sadiyahu.Chatham@ufl.edu
 joined: 2022
 ---
-
-![Sadiya_Hussainc_headshot](https://user-images.githubusercontent.com/74321262/212376467-b9ea3445-fb2a-4dd3-b547-56ad3e4e329d.jpg)
-
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 ---
 
 ### Contact
