@@ -5,7 +5,8 @@ avatar:
 email: Sadiyahu.Chatham@ufl.edu
 joined: 2022
 ---
-![Sadiya_Hussain_headshot](https://user-images.githubusercontent.com/74321262/212364690-617b521b-1c30-41df-bcd0-bb86a4cdf6e2.jpg)
+
+![Sadiya_Hussainc_headshot](https://user-images.githubusercontent.com/74321262/212376467-b9ea3445-fb2a-4dd3-b547-56ad3e4e329d.jpg)
 
 ---
 
